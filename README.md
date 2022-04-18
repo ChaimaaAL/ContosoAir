@@ -1,3 +1,7 @@
+[![Build Status](https://dev.azure.com/AITLARBICHAIMAA/Parts%20Unlimited/_apis/build/status/ChaimaaAL.ContosoAir%20(1)?branchName=master)](https://dev.azure.com/AITLARBICHAIMAA/Parts%20Unlimited/_build/latest?definitionId=4&branchName=master)
+
+
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
